@@ -18,7 +18,8 @@ The exhibition was a **massive success**, serving as the primary anchor for the 
 * **Strategic Networking:** It served as a visual icebreaker, allowing the GMU team to articulate the density and power of the NoVa tech corridor to an international audience.
 * **Presidential Commendation:** **President Gregory Washington** expressed extreme pride in the project, noting how perfectly it symbolized the university’s role as a bridge between education and industry.
 * **Market Impact:** Successfully advertised the region to new businesses and reinforced GMU's reputation as a top-tier hub for collaboration.
-
+* **🏛️ Permanent Installation:** Following its successful debut at CES, the entire display is being moved to the **GMU Arlington Campus at Mason Square**, where it will be placed on **permanent exhibition** as a symbol of the region's technological landscape.
+  
 > [!IMPORTANT]
 > **Read the Official Feature:** > [George Mason Innovation on Display: Tan Chau Produces Through The MIX for CES 2026](https://www.mix.gmu.edu/blog/ces-2026-tan-chau-produces-through-the-mix)
 
