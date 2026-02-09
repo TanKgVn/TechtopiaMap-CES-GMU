@@ -40,7 +40,15 @@ Originally conceived as a hyper-realistic landscape, the project underwent a maj
 * **Detail:** CNC-milled topography featuring hand-painted dirt, grass, mountains, and rivers using realistic turfs and textures.
 * **The Challenge:** High shipping costs to Las Vegas, fragility of the foam, and extreme complexity in assembly.
 
-<img width="750" height="549" alt="image" src="https://github.com/user-attachments/assets/253000f8-646c-4a4d-b153-151ce93f5fdc" />
+>**Wooden Frame for the base**
+>
+>![Image20251003152856](https://github.com/user-attachments/assets/fbfc55cb-26a5-4634-8e29-95c95f085fc5)
+>
+>**6x6 Foam Terain Base**
+>
+>![Image20251003152829](https://github.com/user-attachments/assets/4314b7ea-f421-4177-a099-0757dac325a4)
+>
+><img width="750" height="549" alt="image" src="https://github.com/user-attachments/assets/253000f8-646c-4a4d-b153-151ce93f5fdc" />
 
 
 ### Phase 2: The CES Production Scale
